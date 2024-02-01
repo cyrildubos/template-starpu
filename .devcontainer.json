@@ -1,0 +1,4 @@
+{
+    "name": "StarPU",
+    "image": "registry.gitlab.inria.fr/starpu/starpu-docker/starpu:latest"
+}
